@@ -49,7 +49,8 @@ Este projeto consiste em uma tela de login para um aplicativo React Native, util
 Os prints a seguir demonstram o processo de autenticação:
 
 1. **Tela de Seleção de Conta Google:**  
-   ![image](https://github.com/user-attachments/assets/2140f92b-ecbc-4725-9cf9-58798ec41c97)
+   ![image](https://github.com/user-attachments/assets/918c04b2-27ce-4fde-9496-e01edfd2d769)
+
 
 
 2. **Tela de Sucesso ao Logar:**  
