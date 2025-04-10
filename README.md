@@ -1,4 +1,4 @@
-"""
+
 # README - Login com Google utilizando Firebase e Expo
 
 ## Descrição do Projeto
